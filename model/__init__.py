@@ -1,4 +1,6 @@
 """
+Many utils functions come from, with thanks:
+
 Implementation of the method proposed in the paper:
 'Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking'
 by Aleksandar Bojchevski and Stephan Günnemann,
